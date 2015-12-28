@@ -1,0 +1,214 @@
+body {
+	text-align:center;
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+}
+
+div#content {
+	width:1024px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div#header {
+	height: 110px;
+	background-image: url(http://philippines2008.free.fr/ezemeet/image/pink.gif);
+	background-repeat: repeat-x;
+	border-top:1px solid black;
+	border-left:1px solid black;
+	border-right:1px solid black;
+}
+
+div#body {
+	margin-top:1px;
+}
+
+
+
+#body_content {
+	float:left;
+	text-align: center;
+	min-height:482px;
+	margin-bottom: 1px;
+	width: 900px;
+}
+
+div#footer {
+	height:20px;
+	
+}
+
+#body_right {
+	width:122px;
+	height:440px;
+	float:right;
+}
+#menu {
+	height:18px;
+	border:1px solid black;
+	background-color: gray;
+	margin-top: 1px;
+}
+#head_logo {
+	width:140px;
+	height: 110px;
+	float:left;
+	position:relative;
+	top:6px;
+}
+#head_middle {
+	width:720px;
+	height: 110px;
+	float:left;
+	text-align: center;
+	vertical-align: middle;
+	position:relative;
+	top:10px;
+}
+#head_login {
+	width:160px;
+	height: 110px;
+	float:left;
+	vertical-align: middle;
+	position:relative;
+	top:9px;
+	
+}
+#right_adtop {
+	width:120px;
+	height: 240px;
+	text-align: right;
+	margin-bottom: 2px;
+}
+#right_adbottom {
+	width:120px;
+	height: 240px;
+	text-align: right;
+}
+
+.form {
+	width:272px;
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+	font-size: 11px;
+	float:left;
+}
+.form_row {
+	color: white;
+	margin-bottom:0px;
+	margin-top:12px;
+	margin-left: 0;
+	margin-right: 0;
+}
+.form_td {
+	float:left;
+	width:140;
+}
+
+.form_label {
+	float:left;
+	color:#666;
+}
+
+.form_input {
+	float:right;
+	border:2px inset pink;
+	width:134px;
+	padding:2px;
+	font-size: 11px;
+}
+
+#footer_left {
+	width:12px;
+	height:20px;
+	float:left;
+}
+#footer_middle {
+	width:1000px;
+	height:20px;
+	background-color: #ff308a;
+	float:left;
+}
+#footer_right {
+	width:12px;
+	height:20px;
+	float:left;
+}
+.footer_a {
+	color:white;
+	text-decoration: none;
+	font-family: Myriad Pro, Garamond, Helvetica;
+	font-size: 12px;
+	margin-right: 10px;
+}
+.footer_a:hover {
+	color:white;
+	text-decoration: underline;
+}
+.menu_a {
+	color:white;
+	text-decoration: none;
+	font-family: Myriad Pro, Garamond, Helvetica;
+	font-size: 12px;
+	margin-right: 10px;
+}
+.menu_a:hover {
+	color:black;
+}
+
+div#toolbar {
+	width:510px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2px;
+}
+div.menuitem {
+	float:left;
+	padding-left: 10px;
+	border-right: 1px solid black;
+}
+div.menuitem1 {
+	float:left;
+	padding-left: 10px;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+div.menuitem:hover {
+	color: #ff308a;
+}
+div#footer_toolbar {
+	width:400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+div.footer_menuitem {
+	float:left;
+	padding-left: 10px;
+	border-right: 1px solid white;
+}
+div.footer_menuitem1 {
+	float:left;
+	padding-left: 10px;
+	border-right: 1px solid white;
+	border-left: 1px solid white;
+}
+div.form_tdlabel {
+	float:left;
+	width:124px;
+	text-align: right;
+	color:#666;
+	color:black;
+}
+div.form_tdinput {
+	float:right;
+	width:140px;
+}
+.btn_image {
+	text-decoration: none;
+}
+.btn_image:visited {
+	text-decoration: none;
+	border:0;
+}
+.btn_image:hover {
+	text-decoration: none;
+	border:0;
+}

@@ -1,0 +1,76 @@
+body {
+	text-align:center;
+}
+
+div#content {
+	//border:1px solid black;
+	width:1024px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: fuchsia
+}
+
+div#header {
+	//border:1px solid black;
+	height: 110px;
+}
+
+div#body {
+	border:1px solid black;
+	//height: 302px;
+}
+
+#body_content {
+	background-color: #ffc2e9;
+	float:left;
+	text-align: center;
+	border:1px solid black;
+	width:850px;
+	height: 402px;
+}
+
+div#footer {
+	border:1px solid black;
+	height:30px;
+}
+
+#body_right {
+	//border:1px solid black;
+	width:170px;
+	height:300px;
+	float:right;
+}
+#menu {
+	height:25px;
+	border:1px solid black;
+}
+#head_logo {
+	width:120px;
+	height: 110px;
+	border:1px solid black;
+	float:left;
+}
+#head_middle {
+	width:726px;
+	height: 110px;
+	border:1px solid black;
+	float:left;
+}
+#head_login {
+	width:170px;
+	height: 110px;
+	border:1px solid black;
+	float:left;
+}
+#right_adtop {
+	width:168px;
+	height: 200px;
+	border:1px solid gray;
+
+}
+#right_adbottom {
+	width:168px;
+	height: 200px;
+	border:1px solid gray;
+}
+
